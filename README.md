@@ -3,7 +3,8 @@
 Code and data for the manuscript:
 "Mechanical oscillations orchestrate axial patterning through Wnt activation in Hydra"
 
-Jaroslav Ferenc, Panagiotis Papasaikas, Jacqueline Ferralli, Yukio Nakamura, Sebastien Smallwood, Charisios D. Tsiairis1
+Jaroslav Ferenc, Panagiotis Papasaikas, Jacqueline Ferralli, Yukio Nakamura, Sebastien Smallwood, Charisios D. Tsiairis
+
 
 ## Scripts:
 
